@@ -1,0 +1,91 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: thin;
+    padding: 55px;
+    outline: yellow solid 50px;
+    padding: 20px;
+    border:  double  blue 10px;
+    
+
+
+    
+}
+
+
+main {
+    padding: 40px;
+    border: double solid blue;
+    
+}
+
+
+footer {
+    border-top: 1px solid blue;
+    padding-top: 10px;
+   
+}
+
+
+h1 {
+    font-size: 150%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 125%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 115%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+
+p,blockquote,ul,li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+cite {
+    color: blue;
+    font-style: normal; 
+    float: right;
+    margin-top: -10px;
+}
+
+
+p.paragraph1 {
+    
+    margin-bottom: 10px;
+    margin-bottom: 3%;
+}
+
+
+img {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+
+footer p {
+    font-size: 90%;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
